@@ -6,12 +6,13 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "bootstrap": "^5.0.2",
+    "bootstrap": "^5.3.3",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "http-errors": "~1.6.3",
+    "icons": "^1.0.0",
     "jquery": "^3.7.1",
     "morgan": "~1.9.1",
     "typed.js": "^2.0.12"
